@@ -1,4 +1,4 @@
-<h1 align="center">ClickUp Client</h1>
+<h1 align="center">Simple Node + Typescript + Jest Template</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/lucashthiele/node-ts-jest-template#readme" target="_blank">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> An easy to use client for ClickUp API
+> Template with Node, Typescript and Jest 
 
 ## Install
 
